@@ -14,5 +14,6 @@ software.
 ## How to run
 Clone this repository in your PC and run the file 'check.m'. You might want to change the path in the code to point towards the brain MRI you are interested in analysing first.
 
-For More information on how this project was made read "report.pdf"
-For a quick runthrough of the code open "presentation.ppt"
+For More information on how this project was made read "report.pdf".
+
+For a quick runthrough of the code open "presentation.ppt".
